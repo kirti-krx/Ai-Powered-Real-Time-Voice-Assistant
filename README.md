@@ -70,12 +70,12 @@ Flow:
 
 ## 📂 Project Structure
 
-voice-assistant/
-│── voice.py               # Main script
-│── requirements.txt       # Dependencies
-│── .env                   # API keys (ignored in Git)
-│── README.md               # Documentation
-│── architecture.png        # System architecture diagram
+- voice-assistant/
+-│── voice.py               
+-│── requirements.txt       
+-│── .env                   
+-│── README.md              
+-│── architecture.png        
 
 
 ---
