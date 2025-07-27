@@ -5,6 +5,13 @@ It listens to your voice, processes queries using Gemini, and replies back with 
 
 ---
 
+## DEMO
+
+
+https://github.com/user-attachments/assets/2e9815f1-a7f7-4915-8566-95b6a3964b36
+
+---
+
 ## 🚀 Features
 
 - 🎤 **Real-time voice interaction** – talk to the assistant directly.  
