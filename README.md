@@ -72,6 +72,9 @@ Flow:
 - **gTTS: Converts AI response back into voice.**
 - **Audio Output: Plays the generated audio instantly.**
 
+  <img width="1024" height="1536" alt="Architecture" src="https://github.com/user-attachments/assets/7a0e4c2f-b193-4679-a33e-8cd94d228279" />
+
+
 ---
 
 
